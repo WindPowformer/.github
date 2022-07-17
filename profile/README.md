@@ -1,3 +1,3 @@
 # Hey Wind 👋
 
-![wind](../images/wind.jpeg)
+![wind](/images/wind.jpeg)
